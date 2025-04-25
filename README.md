@@ -41,8 +41,8 @@ This MATLAB project simulates and visualizes multi-device wireless communication
 - Final bar graph comparing MIMO and SISO performance per communication
 - Console printout of SINR and received power metrics
 
-  ![barplot_placeholder](https://github.com/user-attachments/assets/d215a590-9615-495e-8912-fcfb407a4d7c)
 ![output_placeholder](https://github.com/user-attachments/assets/968f4da9-b819-4db5-a533-46645a23c20f)
+![barplot_placeholder](https://github.com/user-attachments/assets/d215a590-9615-495e-8912-fcfb407a4d7c)
 
 
 ## ⚙️ Parameters
