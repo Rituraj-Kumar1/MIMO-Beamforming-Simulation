@@ -65,6 +65,9 @@ You can modify these key parameters in the code:
 - MATLAB (recommended version: R2021b or later)
 - No external toolboxes required
 
+[![Click here to see demo](https://img.shields.io/badge/Click%20here%20to%20see%20demo-FF6347?style=for-the-badge&logo=appveyor)](https://github.com/Rituraj-Kumar1/MIMO-Beamforming-Simulation/raw/main/Demo.mkv)
+
+
 ## 📃 License
 
 This project is open-source and available under the MIT License.
