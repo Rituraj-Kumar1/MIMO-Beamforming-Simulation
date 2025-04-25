@@ -67,14 +67,13 @@ You can modify these key parameters in the code:
 
 # Demo Video
 
-Click the button below to see the demo:
+Click the button below to view or download the demo:
 
 <a href="https://raw.githubusercontent.com/Rituraj-Kumar1/MIMO-Beamforming-Simulation/main/Demo.mkv" target="_blank">
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; cursor: pointer;">
     Click here to see demo
   </button>
 </a>
-
 
 ## 📃 License
 
